@@ -1,0 +1,45 @@
+char_chot.png
+	size: 1024, 512
+	filter: Linear, Linear
+	pma: true
+arm_l_l
+	bounds: 456, 192, 76, 99
+arm_l_r
+	bounds: 385, 26, 64, 105
+arm_u_l
+	bounds: 527, 64, 48, 75
+arm_u_r
+	bounds: 506, 141, 49, 74
+	rotate: 90
+body
+	bounds: 202, 128, 138, 172
+	rotate: 90
+body_l
+	bounds: 451, 28, 103, 74
+	rotate: 90
+hat
+	bounds: 2, 128, 380, 198
+	rotate: 90
+head
+	bounds: 202, 268, 240, 202
+	rotate: 90
+hood_b_1
+	bounds: 406, 293, 83, 215
+hood_b_1 copy
+	bounds: 204, 15, 111, 179
+	rotate: 90
+hood_f
+	bounds: 2, 2, 200, 124
+leg_l_l
+	bounds: 456, 137, 48, 53
+leg_l_r
+	bounds: 456, 137, 48, 53
+leg_u_l
+	bounds: 527, 16, 46, 66
+	rotate: 90
+leg_u_r
+	bounds: 527, 16, 46, 66
+	rotate: 90
+shirt_back
+	bounds: 376, 133, 133, 78
+	rotate: 90

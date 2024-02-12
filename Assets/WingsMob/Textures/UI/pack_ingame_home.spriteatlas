@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_ingame_home
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dd1c278bab3f7d046857bd93774a5ab4, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 02e8a81091a18ad4e9200146ba428dfe, type: 3}
+  - {fileID: 21300000, guid: 12ce0820a7c31a14e8884d5cb8ea3542, type: 3}
+  - {fileID: 21300000, guid: e82f5a40bd1b22245a3e146cabfb700b, type: 3}
+  - {fileID: 21300000, guid: 141115901a93ab04aab55418487f3a29, type: 3}
+  - {fileID: 21300000, guid: 1d5f56a09295b134c828bc4278e81830, type: 3}
+  - {fileID: 21300000, guid: 29cd35c00b67f8347ab1796d0061754a, type: 3}
+  - {fileID: 21300000, guid: dd35a101bacb58d40b74a5a2b6201fe3, type: 3}
+  - {fileID: 21300000, guid: dbdb2c31ad295a943a5ce371eed7fb4d, type: 3}
+  - {fileID: 21300000, guid: 6c0435d1e16f1bc479f41e7d3d060152, type: 3}
+  - {fileID: 21300000, guid: 746e7373c67b2bc4c9d42c7e3f3f763a, type: 3}
+  - {fileID: 21300000, guid: a7f01b04ed5a55941b1070b6b26c4f13, type: 3}
+  - {fileID: 21300000, guid: d4e722342a5cdaa48bbb064b85d5cfee, type: 3}
+  - {fileID: 21300000, guid: ad053c34ca3bf7944bb1aa3de17399b1, type: 3}
+  - {fileID: 21300000, guid: 237d28d4a7ca6a14eb543edc03f97106, type: 3}
+  - {fileID: 21300000, guid: 9a0fd4c56ab1efc448829488d905fcde, type: 3}
+  - {fileID: 21300000, guid: 89700ed59ea713b41b84b6f6bc5d5bcc, type: 3}
+  - {fileID: 21300000, guid: a010b5a6ea1e9794fbdb62e3e4dfd2ac, type: 3}
+  - {fileID: 21300000, guid: a5274ea7a896eb7479b8d32d42a476d2, type: 3}
+  - {fileID: 21300000, guid: e49f85f7f1bfc39419b15a41c7000df3, type: 3}
+  - {fileID: 21300000, guid: 08ebdf28645a4a147837e263c3be2e8b, type: 3}
+  - {fileID: 21300000, guid: c8332c68c67b7274382f76f20a1e009a, type: 3}
+  - {fileID: 21300000, guid: f0389c78d300f814da2c9c5921d6a357, type: 3}
+  - {fileID: 21300000, guid: c3d38a4a2016d1f4dbe74d08f24d64dc, type: 3}
+  - {fileID: 21300000, guid: 5764a36b5acefdf4490c769260f59593, type: 3}
+  - {fileID: 21300000, guid: 9f01f8cb3a45d0c4f85eb61c9e722da7, type: 3}
+  - {fileID: 21300000, guid: e878bdcb59fdb6942bcf912dc9c92aba, type: 3}
+  - {fileID: 21300000, guid: 7350cd7cf9c349646bf0728e6fbb7139, type: 3}
+  - {fileID: 21300000, guid: c14cf2fc3a213cc449a05cb7b5997636, type: 3}
+  - {fileID: 21300000, guid: bcdecaad457a48e42ac84fa9da8b51e8, type: 3}
+  - {fileID: 21300000, guid: 466f9acdc425cde4eb1960cba891925c, type: 3}
+  - {fileID: 21300000, guid: e5699a5eb4cca2f40b0f02d630241d0a, type: 3}
+  - {fileID: 21300000, guid: b38baafe0d3a2bb42a38cce75a4eeb4f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - frame_home_menu_selecting
+  - btn_home_removead
+  - icon_home_campaign
+  - btn_setting_slider_disabled
+  - btn_red
+  - level_2
+  - btn_home
+  - frame_setting_slider_disabled
+  - btn_arrow
+  - frame_home_top
+  - icon_settings
+  - frame_home_ava
+  - icon_home_quest
+  - level_1
+  - frame_home_exp_bar
+  - icon_energy
+  - frame_home_menu
+  - icon_lock
+  - icon_setting_sound
+  - back
+  - frame_home_exp_fill
+  - icon_coin
+  - frame_settings
+  - icon_home_inventory
+  - currency_bar
+  - icon_gem
+  - frame_setting_slider_enabled
+  - icon_home_upgrade
+  - btn_home_removead_2
+  - btn_setting_slider_enabled
+  - icon_home_shop
+  - btn_blue
+  m_Tag: pack_ingame_home
+  m_IsVariant: 0

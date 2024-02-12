@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b24f6db9bf9b7f418defce39a582543, type: 3}
+  m_Name: Melting Potion N
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: 0dadf77a700973e4190f1a17a2bae52c, type: 3}
+  weaponId: 4
+  weaponName: Melting Potion
+  hasProjectile: 1
+  projectilePrefab: {fileID: 3877838874836449232, guid: 4aa8c4918f454d14b864975befddae50,
+    type: 3}
+  projectileParticlePrefab: {fileID: 1440457265516247622, guid: 544254c7084c1464686c7c31816c2742,
+    type: 3}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 000000000400000002000000070000000600000001000000
+    _keys: 000000000400000002000000070000000600000001000000
+    _values:
+    - levels:
+      - 60
+      - 80
+      - 100
+      - 120
+      - 150
+    - levels:
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+    - levels:
+      - 4.5
+      - 4.5
+      - 4.5
+      - 4.5
+      - 4.5
+    - levels:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    - levels:
+      - 125
+      - 150
+      - 175
+      - 200
+      - 225
+    - levels:
+      - 4
+      - 4
+      - 4
+      - 4
+      - 4
+  normalDescriptions:
+  - Throws 2 bottles of acid to generate damaging zones
+  - ' Bigger area, More damage, +1 Acid bottle'
+  - ' Bigger area, More damage, +1 Acid bottle'
+  - ' Bigger area, More damage, +1 Acid bottle'
+  - ' Bigger area, More damage, +1 Acid bottle'

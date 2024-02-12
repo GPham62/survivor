@@ -1,0 +1,6 @@
+[submodule "Assets/WMAdsFramework"]
+	path = Assets/WMAdsFramework
+	url = https://gitlab.com/wingsmob/ad_sdk.git
+[submodule "Assets/WMFramework"]
+	path = Assets/WMFramework
+	url = https://gitlab.com/wingsmob/wingsmob-framework.git

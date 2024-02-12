@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_enemies_lucas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6326f0df5e434bf468f1f18b2698010e, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 80dc4524e3bcb224fb631668b0a507bc, type: 3}
+  - {fileID: 21300000, guid: 6f6904a7d85463947b71270e2e90ea0c, type: 3}
+  - {fileID: 21300000, guid: 1abaaed7a28e28a4eac29ede032d2e3c, type: 3}
+  - {fileID: 21300000, guid: ae4f7d389d45c934fafb83250152e3c8, type: 3}
+  - {fileID: 21300000, guid: b6ea206ab16136e45b74443694d5d8dd, type: 3}
+  - {fileID: 21300000, guid: 549218efbd57fbe46b7b3c03ad52852f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c13_2_3
+  - c13_2_2
+  - c13_2_5
+  - c13_2_4
+  - c13_2_1
+  - c13_2_6
+  m_Tag: pack_enemies_lucas
+  m_IsVariant: 0

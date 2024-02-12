@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_enemies_ocean_scrab
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ed45616731566854dba93d8690ffca20, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bef911f1592b1984690db01501d30bbb, type: 3}
+  - {fileID: 21300000, guid: a91a72976ebcc444eb0e53b3bfb9d42a, type: 3}
+  - {fileID: 21300000, guid: 37f8cad78f4d8684d81b87e6984aa2d3, type: 3}
+  - {fileID: 21300000, guid: 3337b2082505e8d45a6752b20ced0f6d, type: 3}
+  - {fileID: 21300000, guid: 7b9a276cccf8f184a9742a5203a93cb6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c8_4
+  - c8_2
+  - c8_3
+  - crep_bullet
+  - c8_1
+  m_Tag: pack_enemies_ocean_scrab
+  m_IsVariant: 0

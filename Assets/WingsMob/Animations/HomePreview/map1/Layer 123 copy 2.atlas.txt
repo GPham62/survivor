@@ -1,0 +1,38 @@
+Layer 123 copy 2.png
+	size: 1024, 512
+	filter: Linear, Linear
+	pma: true
+Layer 1
+	bounds: 794, 467, 60, 42
+Layer 1 copy
+	bounds: 483, 136, 68, 47
+Layer 1 copy 2
+	bounds: 553, 156, 37, 27
+Layer 122 copy
+	bounds: 428, 80, 53, 103
+Layer 123 copy
+	bounds: 750, 428, 42, 81
+Layer 123 copy 2
+	bounds: 695, 321, 42, 81
+Layer 2
+	bounds: 428, 50, 28, 49
+	rotate: 90
+Layer 2 copy
+	bounds: 483, 103, 31, 56
+	rotate: 90
+Layer 84 copy
+	bounds: 695, 404, 53, 105
+Layer 84 copy 2
+	bounds: 613, 198, 53, 103
+c1_body
+	bounds: 428, 185, 183, 116
+c1_head
+	bounds: 428, 303, 265, 206
+c1_leg_l
+	bounds: 2, 2, 39, 62
+	rotate: 90
+c1_leg_r
+	bounds: 2, 2, 39, 62
+	rotate: 90
+frame_home_map1
+	bounds: 2, 43, 424, 466

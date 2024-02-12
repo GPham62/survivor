@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_ingame_defeat
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 59d599c53455d1e4095fc2543418bd4c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 47353c05b8bd5474dbb1e26bf44490bc, type: 3}
+  - {fileID: 21300000, guid: 1dfb03b9e666009459e8241db3967edb, type: 3}
+  - {fileID: 21300000, guid: d130d4fcf3ff43447aa8f4cbf81209fc, type: 3}
+  - {fileID: 21300000, guid: 854627cd6b1c110448a84e5471fd399e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_home
+  - board_defeat_item
+  - icon_killcount
+  - board_ingame_defeat
+  m_Tag: pack_ingame_defeat
+  m_IsVariant: 0

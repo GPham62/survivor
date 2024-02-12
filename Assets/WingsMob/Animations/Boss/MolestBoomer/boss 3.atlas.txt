@@ -1,0 +1,64 @@
+boss 3.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.7
+Boss_3_dirt_pile_move_1
+bounds:1426,690,322,217
+Boss_3_dirt_pile_move_2
+bounds:1426,515,310,173
+Boss_3_dirt_pile_move_3
+bounds:1750,521,332,164
+rotate:90
+Layer 1
+bounds:1865,104,72,74
+rotate:90
+Layer 2
+bounds:1865,52,50,57
+rotate:90
+Layer 3
+bounds:1941,55,58,79
+rotate:90
+Layer 4
+bounds:1941,115,82,61
+binh_dan
+bounds:2,571,971,958
+offsets:1,0,972,959
+body
+bounds:975,909,620,806
+rotate:90
+chan p
+bounds:1916,680,173,91
+rotate:90
+chan tr
+bounds:1916,505,173,91
+rotate:90
+dan
+bounds:1426,307,207,206
+offsets:0,0,207,207
+head
+bounds:975,502,449,405
+mong p1
+bounds:1635,231,71,143
+mong p2
+bounds:1895,336,74,167
+mong p3
+bounds:1895,251,83,137
+rotate:90
+mong tr1
+bounds:1865,178,71,143
+rotate:90
+mong tr2
+bounds:1971,336,74,167
+mong tr3
+bounds:1635,376,83,137
+star
+bounds:1924,2,54,51
+tay p
+bounds:1738,303,155,216
+tay p2
+bounds:1783,1193,242,336
+tay tr
+bounds:1708,85,155,216
+tay tr2
+bounds:1783,855,242,336

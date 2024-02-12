@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_enemies_queen_bee
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2c545186e860de9489d2af51e7d4e0e3, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 94e5a575e52d789429c8d3c19668b1b0, type: 3}
+  - {fileID: 21300000, guid: bcf49de5240681b42aef70c3b17a9389, type: 3}
+  - {fileID: 21300000, guid: f608a826849ec914594a75b03a16ccf0, type: 3}
+  - {fileID: 21300000, guid: 2cf2f83750e3deb4d88870e1c02e8dde, type: 3}
+  - {fileID: 21300000, guid: 2d5c4b68dec89aa469f2b40e41f518ac, type: 3}
+  - {fileID: 21300000, guid: e0484afa63422cc4982927c121f74124, type: 3}
+  - {fileID: 21300000, guid: aa2f174f127b106429ce55bf955fd36d, type: 3}
+  - {fileID: 21300000, guid: 0ebb708f83cd89f4b9e12f2c273aeeb6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c12_8
+  - c12_6
+  - c12_1
+  - c12_5
+  - c12_7
+  - c12_3
+  - c12_2
+  - c12_4
+  m_Tag: pack_enemies_queen_bee
+  m_IsVariant: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_ingame_reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 96bd21bd82cfa054e84b837d968de8c0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d97c50b03e974ce4aae3520318a8d62f, type: 3}
+  - {fileID: 21300000, guid: 65207d561228be344bf7b8eb46b06969, type: 3}
+  - {fileID: 21300000, guid: 4dc673d8b55df7a4f9bf345b1f9919ea, type: 3}
+  - {fileID: 21300000, guid: 2735d659c74be4b4286ae2535234268b, type: 3}
+  - {fileID: 21300000, guid: 309c4759c53305540a7bd19bfb7d9ad1, type: 3}
+  - {fileID: 21300000, guid: 6d4378b9a22cb4743ab94442043c3405, type: 3}
+  - {fileID: 21300000, guid: f468e4c9aa556b84c8f31da376537fcb, type: 3}
+  - {fileID: 21300000, guid: aff318d9aad973340b41d9c468a284b4, type: 3}
+  - {fileID: 21300000, guid: 3e8da03a483fc00439f3cc36fd9878ee, type: 3}
+  - {fileID: 21300000, guid: 40f6e24bcf5b5a742a4f6b18ffb048c5, type: 3}
+  - {fileID: 21300000, guid: 7e713a6bfa90a9f4b9c8c82d1beea2af, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - frame_ingame_slotmachine_legendaryloot
+  - frame_ingame_slotmachine_base
+  - frame_ingame_slotmachine_epicloot
+  - star light3
+  - light
+  - frame_ingame_bonus
+  - lightray2
+  - frame_ingame_slotmachine_commonloot
+  - frame_ingame_slotmachine_back
+  - frame_ingame_slotmachine_row
+  - btn_select_blue
+  m_Tag: pack_ingame_reward
+  m_IsVariant: 0

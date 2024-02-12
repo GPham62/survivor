@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de6597f8d43ad6c49b8f9e9ce129f0a7, type: 3}
+  m_Name: Clear Mind
+  m_EditorClassIdentifier: 
+  augmentorIcon: {fileID: 21300000, guid: 87375c828f7a9524085b8058d6121391, type: 3}
+  augmentorId: 4
+  augmentorName: Clear Mind
+  augmentorDescription: More exp when collect exp
+  weaponId: 0
+  isBasicWeapon: 1
+  stats: 11
+  baseValue: 8
+  upgradeValue: 8

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc06fd972994c2429fac2961664ddae, type: 3}
+  m_Name: WMAdsSettings
+  m_EditorClassIdentifier: 
+  IsTestID: 0
+  PublisherID: ca-app-pub-9044157658452838
+  ApplovinSDKKey: mNzqVWFT8m3KsBBZF_HuKr_1NwTID89ek_AM3VkLTyC8A2VT9wlg736FtlPs2oRnkNtH21cpd67yTCE9vKL-B4
+  AndroidAppID: ca-app-pub-9044157658452838~1369108754
+  AndroidInterstitialID: ca-app-pub-9044157658452838/6750547500
+  AndroidRewardedID: ca-app-pub-9044157658452838/1050648204
+  AndroidBannerID: ca-app-pub-9044157658452838/6614816135
+  AndroidAppOpenID: ca-app-pub-9044157658452838/5984260744
+  IOSAppID: ca-app-pub-3940256099942544~3347511713
+  IOSInterstitialID: ca-app-pub-3940256099942544/4411468910
+  IOSRewardedID: ca-app-pub-3940256099942544/1712485313
+  IOSBannerID: ca-app-pub-3940256099942544/2934735716
+  IOSAppOpenID: ca-app-pub-3940256099942544/5662855259
+  IronsourceAppID: 
+  IronsourceAdmobAppID: 
+  MAX_AdInterstitialID: 
+  MAX_AdRewardedID: 
+  MAX_AdBannerID: 
+  MAX_IOSInterstitialID: 
+  MAX_IOSRewardedID: 
+  MAX_IOSBannerID: 
+  AdsNetworkID:
+  - cstr6suwn9.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - 2fnua5tdw4.skadnetwork
+  - ydx93a7ass.skadnetwork
+  - 5a6flpkh64.skadnetwork
+  - p78axxw29g.skadnetwork
+  - v72qych5uu.skadnetwork
+  - c6k4g5qg8m.skadnetwork
+  - s39g8k73mm.skadnetwork
+  - 3qy4746246.skadnetwork
+  - 3sh42y64q3.skadnetwork
+  - f38h382jlk.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - prcb7njmu6.skadnetwork
+  - v4nxqhlyqp.skadnetwork
+  - wzmmz9fp6w.skadnetwork
+  - yclnxrl5pm.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 7ug5zh24hu.skadnetwork
+  - 9rd848q2bz.skadnetwork
+  - n6fk4nfna4.skadnetwork
+  - kbd757ywx3.skadnetwork
+  - 9t245vhmpl.skadnetwork
+  - 4468km3ulz.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - av6w8kgt66.skadnetwork
+  - klf5c3l5u5.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - 424m5254lk.skadnetwork
+  - uw77j35x4d.skadnetwork
+  - 578prtvx9j.skadnetwork
+  - 4dzt52r2t5.skadnetwork
+  - e5fvkxwrpn.skadnetwork
+  - 8c4e2ghe7u.skadnetwork
+  - zq492l623r.skadnetwork
+  - 3qcr597p9d.skadnetwork
+  - 238da6jt44.skadnetwork
+  - 22mmun2rn5.skadnetwork
+  - v9wttpbfk9.skadnetwork
+  - n38lu8286q.skadnetwork
+  - ludvb6z3bs.skadnetwork
+  TestDeviceIDs: []

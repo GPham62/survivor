@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_ingame_pause
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 65786684ffe24764d8a0df3f01351149, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38d6a540624b89c43a294e3e04625a20, type: 3}
+  - {fileID: 21300000, guid: 5a9b201132fff744dac3c4aae94eb523, type: 3}
+  - {fileID: 21300000, guid: cf635271814f84c4f8dc7f785e902ed6, type: 3}
+  - {fileID: 21300000, guid: a4a95d94d8cb76d4d8016a405052b459, type: 3}
+  - {fileID: 21300000, guid: 21ff4667a8bebba418ea20506964e850, type: 3}
+  - {fileID: 21300000, guid: f97d7698dd0bc734785fbb2cdd4880f3, type: 3}
+  - {fileID: 21300000, guid: 4a2c6f19921322549836ffba0b053aaa, type: 3}
+  - {fileID: 21300000, guid: 8764ffaa51314234abe82f085d9f28fc, type: 3}
+  - {fileID: 21300000, guid: b861dc1b824349844b18390efeb7e8b2, type: 3}
+  - {fileID: 21300000, guid: bb6bc17c4f885794a9bb86be83c5c8b5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - frame_pause_weaponlist
+  - btn_blank
+  - frame_pause_auglist
+  - frame_pause_letterstand
+  - png_sound_mute
+  - btn_blank_flip
+  - btn_pause_sound
+  - png_sound
+  - btn_pause_home
+  - btn_resume
+  m_Tag: pack_ingame_pause
+  m_IsVariant: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 275e74624e1a9034193d47e74d80f3d4, type: 3}
+  m_Name: Drake Caller U
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: f07c94e278a9af24b9aa4b69a7d40d81, type: 3}
+  weaponId: 3
+  weaponName: Ancient Danger
+  hasProjectile: 1
+  projectilePrefab: {fileID: 1397632778857170554, guid: e4c97d434d0c8b44ab5bb96122a8809a,
+    type: 3}
+  projectileParticlePrefab: {fileID: 8423413764477948222, guid: ed4819dbfc8fef54e83aa29ca514f3a2,
+    type: 3}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 000000000200000003000000040000000100000006000000
+    _keys: 000000000200000003000000040000000100000006000000
+    _values:
+    - levels:
+      - 400
+    - levels:
+      - 4.2
+    - levels:
+      - 6
+    - levels:
+      - 4
+    - levels:
+      - 1
+    - levels:
+      - 215
+  description: The blue nightmare.

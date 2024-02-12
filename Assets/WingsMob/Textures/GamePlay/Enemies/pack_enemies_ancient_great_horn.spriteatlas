@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_enemies_ancient_great_horn
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d4451aeafc6225944b0531e6cf5b07a6, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 53aa2651f4eee264eb9534f809180772, type: 3}
+  - {fileID: 21300000, guid: 5a9615b313ac29342acbe23d6c7ece07, type: 3}
+  - {fileID: 21300000, guid: 911c67645d1ade4429e0bd38a40400a0, type: 3}
+  - {fileID: 21300000, guid: 57632f9b7572693489c9ddf6322204ab, type: 3}
+  - {fileID: 21300000, guid: 78deb85c621a5d34581672f35e2d10cd, type: 3}
+  - {fileID: 21300000, guid: 5aa7888dc2241c04ab5ea7d200d226f3, type: 3}
+  - {fileID: 21300000, guid: 39737b4ff2eab8b4b8e935d2e697ce6e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tx_c5_3
+  - tx_c5_7
+  - tx_c5_5
+  - tx_c5_4
+  - tx_c5_2
+  - tx_c5_1
+  - tx_c5_6
+  m_Tag: pack_enemies_ancient_great_horn
+  m_IsVariant: 0

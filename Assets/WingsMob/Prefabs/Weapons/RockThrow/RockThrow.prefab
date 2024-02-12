@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9167205793810772165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9167205793810772164}
+  - component: {fileID: 1897609661155964602}
+  - component: {fileID: 7536076799048731640}
+  m_Layer: 5
+  m_Name: RockThrow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9167205793810772164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9167205793810772165}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1897609661155964602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9167205793810772165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d32d44847378f4ea392ae00cc0ba15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 0
+  m_normalWeaponConfig: {fileID: 11400000, guid: e14a7b804acbb2746a31fe1c77ad0e2d,
+    type: 2}
+  m_ultiWeaponConfig: {fileID: 11400000, guid: 0adc7f3763fd4004abb852340a4c3d33, type: 2}
+--- !u!114 &7536076799048731640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9167205793810772165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17695bb29256d1242930d72bd4ee2551, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_canLevelUp: 1
+  m_weaponStats: {fileID: 1897609661155964602}
+  isFinalForm: 0
+  m_throwSpeed: 0
+  m_projectileAmount: 0
+  m_rockDamage: 0

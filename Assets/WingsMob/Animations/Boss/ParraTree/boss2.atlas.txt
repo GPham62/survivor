@@ -1,0 +1,82 @@
+boss2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.8
+Layer 1
+bounds:1855,1777,168,240
+Layer 10
+bounds:1855,1535,168,240
+Layer 13
+bounds:1855,1293,168,240
+Layer 16
+bounds:1855,1051,168,240
+Layer 19
+bounds:1855,809,168,240
+Layer 22
+bounds:1102,487,168,240
+rotate:90
+Layer 25
+bounds:1320,871,168,240
+rotate:90
+Layer 28
+bounds:1005,42,168,240
+rotate:90
+Layer 31
+bounds:1209,245,168,240
+Layer 34
+bounds:1344,506,168,240
+rotate:90
+Layer 37
+bounds:1438,701,168,240
+rotate:90
+Layer 4
+bounds:1562,871,168,240
+rotate:90
+Layer 40
+bounds:1680,629,168,240
+Layer 43
+bounds:1850,567,168,240
+Layer 46
+bounds:1586,459,168,240
+rotate:90
+Layer 7
+bounds:1379,264,168,240
+arm_l
+bounds:1005,657,434,313
+rotate:90
+arm_r
+bounds:671,657,434,313
+rotate:90
+body
+bounds:2,358,733,667
+rotate:90
+glow
+bounds:1005,212,202,202
+offsets:2,2,206,206
+glow_green
+bounds:1549,304,153,154
+offsets:2,1,156,156
+rotate:90
+gun_r
+bounds:2,2,354,498
+rotate:90
+gun_r copy
+bounds:502,23,333,501
+rotate:90
+haert 2
+bounds:671,403,252,217
+rotate:90
+heart 1
+bounds:1828,336,229,170
+rotate:90
+heart 3
+bounds:1320,676,131,116
+rotate:90
+heart 5
+bounds:890,416,210,239
+leaf back
+bounds:2,1093,1406,924
+root
+bounds:1410,1041,976,443
+rotate:90

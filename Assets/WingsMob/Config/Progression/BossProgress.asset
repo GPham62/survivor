@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0366cd411a4b78a48b73b4a9bc54675e, type: 3}
+  m_Name: BossProgress
+  m_EditorClassIdentifier: 
+  characterClasses:
+  - characterClass: 6
+    stats:
+    - stat: 4
+      levels:
+      - 5
+    - stat: 5
+      levels:
+      - 8
+    - stat: 1
+      levels:
+      - 2000
+    - stat: 2
+      levels:
+      - 2200
+    - stat: 3
+      levels:
+      - 2
+  - characterClass: 8
+    stats:
+    - stat: 4
+      levels:
+      - 3.2
+    - stat: 5
+      levels:
+      - 5.3
+    - stat: 1
+      levels:
+      - 1500
+    - stat: 2
+      levels:
+      - 1665
+  - characterClass: 17
+    stats:
+    - stat: 4
+      levels:
+      - 4.6
+    - stat: 5
+      levels:
+      - 4.2
+    - stat: 1
+      levels:
+      - 1500
+    - stat: 2
+      levels:
+      - 2050

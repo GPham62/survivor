@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b24f6db9bf9b7f418defce39a582543, type: 3}
+  m_Name: Dancing Bullet N
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: 697d1e99569e19740b916877da525799, type: 3}
+  weaponId: 6
+  weaponName: Dancing Bullet
+  hasProjectile: 1
+  projectilePrefab: {fileID: 2485965194316150065, guid: 078996219e087184abc574161114be3f,
+    type: 3}
+  projectileParticlePrefab: {fileID: 8423413764477948222, guid: 8a6abc426ada74941bfe395fae94e85c,
+    type: 3}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 0000000006000000030000000400000009000000
+    _keys: 0000000006000000030000000400000009000000
+    _values:
+    - levels:
+      - 500
+      - 600
+      - 700
+      - 800
+      - 1000
+    - levels:
+      - 70
+      - 70
+      - 70
+      - 70
+      - 85
+    - levels:
+      - 1000
+      - 1000
+      - 1000
+      - 1500
+      - 1500
+    - levels:
+      - 1
+      - 2
+      - 3
+      - 3
+      - 3
+    - levels:
+      - 6
+      - 7
+      - 8
+      - 8
+      - 8
+  normalDescriptions:
+  - Bounces among the enemies.
+  - "+1 bounce, \nMore damage."
+  - '+1 bounce,
+
+    More damage.'
+  - 'More damage,
+
+    Faster bounce travel.'
+  - 'More damage,
+
+    Bigger bounce.'

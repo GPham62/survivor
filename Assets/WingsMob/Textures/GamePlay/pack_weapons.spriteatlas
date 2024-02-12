@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_weapons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de953b93a19ce9a4995dc04c981e1440, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 267c136096cdfdc418fda34db4be5a18, type: 3}
+  - {fileID: 21300000, guid: 60d3f65165696ec46979cc078f670840, type: 3}
+  - {fileID: 21300000, guid: a56d41713fb7b5846bb0aef627456beb, type: 3}
+  - {fileID: 21300000, guid: e55ba5912662d824694c65e35cd7ec16, type: 3}
+  - {fileID: 21300000, guid: bd419272f7c80e64c8abe64f079c7093, type: 3}
+  - {fileID: 21300000, guid: 9e0d2e82007d80840ad601f6dba4ee81, type: 3}
+  - {fileID: 21300000, guid: f07c94e278a9af24b9aa4b69a7d40d81, type: 3}
+  - {fileID: 21300000, guid: 66d79e44795023e4e9b0b10962dccbc1, type: 3}
+  - {fileID: 21300000, guid: 4da799a5cb7badb439fdf31e3896a244, type: 3}
+  - {fileID: 21300000, guid: 9f75b7d5d6908f941a099836804b8610, type: 3}
+  - {fileID: 21300000, guid: 8a8aa9062d9e2b44aaa423810de14c4e, type: 3}
+  - {fileID: 21300000, guid: d3608d069ed798f4a97cf9e7b690adfc, type: 3}
+  - {fileID: 21300000, guid: 4df522d74c95eec418ca86b8b3c8163a, type: 3}
+  - {fileID: 21300000, guid: d1129d58cfe53014ba2d00883b1c6a0a, type: 3}
+  - {fileID: 21300000, guid: ce55581942d71194194e910e2bc5199c, type: 3}
+  - {fileID: 21300000, guid: 83f2f0798ebda6148962f758387ed17b, type: 3}
+  - {fileID: 21300000, guid: 697d1e99569e19740b916877da525799, type: 3}
+  - {fileID: 21300000, guid: 961d083a31d26e24288cd1f5154b8dac, type: 3}
+  - {fileID: 21300000, guid: 0dadf77a700973e4190f1a17a2bae52c, type: 3}
+  - {fileID: 21300000, guid: 2a6e128a201a9f745aa329b8ef3879df, type: 3}
+  - {fileID: 21300000, guid: 3fa118ca9f3fb3e4ea1ff639ddda2c03, type: 3}
+  - {fileID: 21300000, guid: 1d6f746b3aee17143a22ada73ffbec97, type: 3}
+  - {fileID: 21300000, guid: 7b66017b97350a94eac7472f0dd12372, type: 3}
+  - {fileID: 21300000, guid: 1dc2d4fb294df444c9dea6aea2a55aa0, type: 3}
+  - {fileID: 21300000, guid: c497b9ec4d98e6c44857ed7e3808d522, type: 3}
+  - {fileID: 21300000, guid: e96b6d6d84a4c5947bc7f4ed83a71fe4, type: 3}
+  - {fileID: 21300000, guid: 0a0a72aed97094644a7a30fdf1c6568b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - royal_dagger
+  - infernal_broken_blade
+  - dual blade_n_2
+  - banazooka
+  - bananade
+  - dual blade_u_1
+  - Ancient staff
+  - Lucifer
+  - dual_spinner
+  - blizzard
+  - bananade_ulti
+  - dual blade_u_2
+  - ancient_fidget
+  - thunder_wave
+  - Lauriel
+  - bouncing_boom
+  - bouncing_bullet
+  - icicle_crash
+  - melting_potion
+  - bonemerang
+  - lightning_guardian
+  - lava_potion
+  - dual blade_n_1
+  - weapon_lucifer_projectile
+  - Lilith
+  - wyvern caller
+  - eclipse
+  m_Tag: pack_weapons
+  m_IsVariant: 0

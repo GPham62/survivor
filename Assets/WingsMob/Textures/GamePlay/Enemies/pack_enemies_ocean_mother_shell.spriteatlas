@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pack_enemies_ocean_mother_shell
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5abdb156d76691a49b680ec890477b48, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e97b5ce0be5e538488f0b471257e351c, type: 3}
+  - {fileID: 21300000, guid: c4472e01a5f323a47b962a5cd468702a, type: 3}
+  - {fileID: 21300000, guid: 2955305458142f84dbef632591fe29b7, type: 3}
+  - {fileID: 21300000, guid: d9956f546a9f03040bd9239dfce16cf9, type: 3}
+  - {fileID: 21300000, guid: 024f60b41bc74e94d96d7d5227e3bf70, type: 3}
+  - {fileID: 21300000, guid: 4c51fda7f3082064896b72cfbe709b7e, type: 3}
+  - {fileID: 21300000, guid: 621272e7c308caa48941e34adccb879a, type: 3}
+  - {fileID: 21300000, guid: 56b32fee40872c1409231e0632da5943, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c6_2
+  - c6_3
+  - c6_2_3
+  - c6_2_4
+  - c6_2_1
+  - c6_1
+  - c6_4
+  - c6_2_2
+  m_Tag: pack_enemies_ocean_mother_shell
+  m_IsVariant: 0

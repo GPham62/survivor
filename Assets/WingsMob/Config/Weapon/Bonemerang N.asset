@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b24f6db9bf9b7f418defce39a582543, type: 3}
+  m_Name: Bonemerang N
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: 2a6e128a201a9f745aa329b8ef3879df, type: 3}
+  weaponId: 9
+  weaponName: Bonemerang
+  hasProjectile: 1
+  projectilePrefab: {fileID: 4146091078441300974, guid: c5d34a979adbabc43ac5576bb67d974b,
+    type: 3}
+  projectileParticlePrefab: {fileID: 0}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 00000000060000000300000004000000080000000200000001000000
+    _keys: 00000000060000000300000004000000080000000200000001000000
+    _values:
+    - levels:
+      - 240
+      - 240
+      - 480
+      - 480
+      - 550
+    - levels:
+      - 65
+      - 65
+      - 65
+      - 90
+      - 115
+    - levels:
+      - 650
+      - 650
+      - 650
+      - 650
+      - 650
+    - levels:
+      - 1
+      - 2
+      - 2
+      - 3
+      - 3
+    - levels:
+      - 500
+      - 500
+      - 500
+      - 500
+      - 500
+    - levels:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+    - levels:
+      - 4
+      - 4
+      - 4
+      - 4
+      - 4
+  normalDescriptions:
+  - Throws 1 bonemerang.
+  - +1 Bonemerange.
+  - Bonemerang damage doubled.
+  - "Bigger bonemerang size,\n +1 bonemerang."
+  - Bigger bonemerang size.

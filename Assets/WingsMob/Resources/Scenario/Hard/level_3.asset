@@ -1,0 +1,745 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5b359df37ffbab46b11c6ce44dbbf87, type: 3}
+  m_Name: level_3
+  m_EditorClassIdentifier: 
+  levelId: 2
+  scenarios:
+  - startScenarioTime: 0
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 3
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 7
+      level: 1
+      numberOfEnemy: 3
+      spawnInterval: 4
+  - startScenarioTime: 30
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 7
+      level: 1
+      numberOfEnemy: 5
+      spawnInterval: 2.2
+  - startScenarioTime: 60
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 13
+        level: 1
+        numberOfEnemy: 15
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 15
+      level: 1
+      numberOfEnemy: 3
+      spawnInterval: 2
+    - enemyId: 13
+      level: 1
+      numberOfEnemy: 4
+      spawnInterval: 3
+    - enemyId: 14
+      level: 1
+      numberOfEnemy: 3
+      spawnInterval: 1
+  - startScenarioTime: 90
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 7
+      level: 1
+      numberOfEnemy: 4
+      spawnInterval: 0.8
+  - startScenarioTime: 120
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 9
+        level: 1
+        numberOfEnemy: 80
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 16
+      level: 1
+      numberOfEnemy: 3
+      spawnInterval: 5
+    - enemyId: 15
+      level: 2
+      numberOfEnemy: 6
+      spawnInterval: 0.8
+  - startScenarioTime: 150
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 14
+      level: 0
+      numberOfEnemy: 6
+      spawnInterval: 0.7
+  - startScenarioTime: 180
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 13
+        level: 1
+        numberOfEnemy: 50
+        spawnInterval: 0
+      startHyperMode: 1
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 13
+      level: 2
+      numberOfEnemy: 7
+      spawnInterval: 1
+    - enemyId: 7
+      level: 2
+      numberOfEnemy: 5
+      spawnInterval: 1.2
+  - startScenarioTime: 210
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 1
+      eliteMonsterInfo:
+        enemyId: 3
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 1
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 15
+      level: 2
+      numberOfEnemy: 6
+      spawnInterval: 0.8
+    - enemyId: 14
+      level: 2
+      numberOfEnemy: 5
+      spawnInterval: 1
+  - startScenarioTime: 240
+    mapEvent:
+      hasGiftedMonster: 1
+      giftedMonsterInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 1
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 7
+      level: 2
+      numberOfEnemy: 14
+      spawnInterval: 1.3
+  - startScenarioTime: 270
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 13
+        level: 2
+        numberOfEnemy: 50
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 13
+      level: 2
+      numberOfEnemy: 12
+      spawnInterval: 1
+  - startScenarioTime: 295
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 1
+      bossInfo:
+        enemyId: 1
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 11
+      level: 2
+      numberOfEnemy: 10
+      spawnInterval: 2
+  - startScenarioTime: 330
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 11
+      level: 2
+      numberOfEnemy: 8
+      spawnInterval: 0.9
+  - startScenarioTime: 360
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 14
+        level: 2
+        numberOfEnemy: 20
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 14
+      level: 2
+      numberOfEnemy: 6
+      spawnInterval: 1.2
+    - enemyId: 15
+      level: 3
+      numberOfEnemy: 5
+      spawnInterval: 0.9
+  - startScenarioTime: 390
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 11
+      level: 0
+      numberOfEnemy: 11
+      spawnInterval: 0.9
+  - startScenarioTime: 420
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 16
+        level: 2
+        numberOfEnemy: 40
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 13
+        level: 2
+        numberOfEnemy: 25
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 13
+      level: 2
+      numberOfEnemy: 11
+      spawnInterval: 1
+    - enemyId: 12
+      level: 2
+      numberOfEnemy: 5
+      spawnInterval: 1
+  - startScenarioTime: 450
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 11
+      level: 2
+      numberOfEnemy: 12
+      spawnInterval: 0.85
+  - startScenarioTime: 480
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 1
+      eliteMonsterInfo:
+        enemyId: 1
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+      hasMonsterWave: 1
+      monsterWaveInfo:
+        enemyId: 7
+        level: 2
+        numberOfEnemy: 50
+        spawnInterval: 0
+      startHyperMode: 1
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 15
+      level: 2
+      numberOfEnemy: 12
+      spawnInterval: 0.9
+    - enemyId: 12
+      level: 2
+      numberOfEnemy: 6
+      spawnInterval: 1
+  - startScenarioTime: 510
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 1
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 11
+      level: 3
+      numberOfEnemy: 12
+      spawnInterval: 0.7
+  - startScenarioTime: 540
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 14
+      level: 3
+      numberOfEnemy: 15
+      spawnInterval: 0.85
+    - enemyId: 16
+      level: 2
+      numberOfEnemy: 4
+      spawnInterval: 1
+  - startScenarioTime: 570
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 0
+      bossInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 12
+      level: 3
+      numberOfEnemy: 15
+      spawnInterval: 0.8
+  - startScenarioTime: 595
+    mapEvent:
+      hasGiftedMonster: 0
+      giftedMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasEliteMonster: 0
+      eliteMonsterInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      hasMonsterWave: 0
+      monsterWaveInfo:
+        enemyId: 0
+        level: 0
+        numberOfEnemy: 0
+        spawnInterval: 0
+      startHyperMode: 0
+      endHyperMode: 0
+      isBossEvent: 1
+      bossInfo:
+        enemyId: 2
+        level: 1
+        numberOfEnemy: 1
+        spawnInterval: 0
+    enemyInfos:
+    - enemyId: 2
+      level: 1
+      numberOfEnemy: 1
+      spawnInterval: 1

@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5183306457632611847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1155948297240755702}
+  - component: {fileID: 660481609853008590}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1155948297240755702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183306457632611847}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &660481609853008590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183306457632611847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a71a22915fe8e4db119793acb7dbf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damagePopupPrefab: {fileID: 662449938267631849, guid: 3fce41ac3a3faa14596319f67f4ecf91,
+    type: 3}
+  healPopupPrefab: {fileID: 6156090551363658389, guid: ce714bf65f7b5fe46bd95ba5563cc0d8,
+    type: 3}
+  coinsPopupPrefab: {fileID: 596722041720185887, guid: f9cc8c77a00a48643b8e993f8561e443,
+    type: 3}
+  levelUpPopupPrefab: {fileID: 8308935308208030519, guid: 4fa3a2e82187a4f4b987620a6385746a,
+    type: 3}
+  levelUpAdsPopupPrefab: {fileID: 8308935308208030519, guid: 2e5b9dd2761b47d47ab9e798ab6ee8c7,
+    type: 3}
+  winPopupPrefab: {fileID: 823311930046985027, guid: 1d51b77f87d96bf48bf52dbd59d7819c,
+    type: 3}
+  losePopupPrefab: {fileID: 823311930046985027, guid: b73f54f2103764a4fa5d42b8c19e45e1,
+    type: 3}
+  pausePopupPrefab: {fileID: 823311930046985027, guid: d1e559d84dcfb3846a3d3ccc70d81a8d,
+    type: 3}
+  adsRewardPopupPrefab: {fileID: 823311930046985027, guid: 70b1f048d1395724f947951a8fc246ae,
+    type: 3}
+  slotMachinePopupPrefab: {fileID: 0}
+  gameSettingsPrefab: {fileID: 7090937383163372452, guid: d0c2813c47c1def4d929d895d6b8b04b,
+    type: 3}
+  diamondBlue: {fileID: 8183285587281381115, guid: ef547d7137219dd43bfdcfd1b8de9349,
+    type: 3}
+  diamondYellow: {fileID: 8183285587281381115, guid: 176cb26f99e235f41b69118bb7af54d6,
+    type: 3}
+  diamondGreen: {fileID: 8183285587281381115, guid: 6e9dd6f5477ff224aaface5d8fa68d5e,
+    type: 3}
+  meat: {fileID: 8183285587281381115, guid: 2133f36ee111b1349a79553818dfbf14, type: 3}
+  coin: {fileID: 8183285587281381115, guid: 62e75bcf8f5d0664bacefbbb94f0a73d, type: 3}
+  coinPack: {fileID: 8183285587281381115, guid: 79dc69ad82a95c54c9175c1c45d51b75,
+    type: 3}
+  magnet: {fileID: 8183285587281381115, guid: 24d12dbafb9d7d840ba52fd68c06be28, type: 3}
+  bomb: {fileID: 8183285587281381115, guid: 75d565e24bea6a34ea370bf57a7c1b85, type: 3}
+  weaponChest: {fileID: 8183285587281381115, guid: 3bf4d2fdeeba16746b7834afa73b79d3,
+    type: 3}
+  weaponAdsChest: {fileID: 8183285587281381115, guid: 578a571690b9dd544880f0c0505eb808,
+    type: 3}
+  supplyBox: {fileID: 4129678643054513480, guid: ff0cc19016b0efb41a8f1437d340767b,
+    type: 3}
+  enemyDeadEffect: {fileID: 1009675358081200600, guid: 8e4eed458fdeca6498f29f07778bec97,
+    type: 3}
+  playerTakeDamageEffect: {fileID: 1009675358081200600, guid: 82aa33db9c1beac4a8ba7e6f04ef4546,
+    type: 3}
+  collectableAfterEffect: {fileID: 0}
+  cardNormal: {fileID: 21300000, guid: c59c53e86f38bc243b7e9c9442d85d31, type: 3}
+  cardUltimate: {fileID: 21300000, guid: 0a777034c3966aa4e9b84a8e79d8aba4, type: 3}
+  cardAugmentor: {fileID: 21300000, guid: 74e1fd3947e70284c998a9147610ea84, type: 3}
+  starEmpty: {fileID: 21300000, guid: f73d1937a40085a4b88107d1105b2e86, type: 3}
+  starFilled: {fileID: 21300000, guid: 5c5f0b1e901455a438ba2a01d01c00be, type: 3}
+  starUltimate: {fileID: 21300000, guid: 39a7ac71926e576439ff81e615ca74df, type: 3}
+  cardRewardNormal: {fileID: 21300000, guid: a3e7de371edb5794389b8c498f07a8e8, type: 3}
+  cardRewardUltimate: {fileID: 21300000, guid: 80fe6c33725aca74b988f65032b044c7, type: 3}
+  cardRewardAugmentor: {fileID: 21300000, guid: cc08f55b3ebea8d43b0d7715dd1dc35d,
+    type: 3}
+  basicWeaponCollection:
+  - {fileID: 7536076799048731640, guid: e7815b9d2380c0042b5038bf7fe58103, type: 3}
+  weaponCollection:
+  - {fileID: 1456267602698156868, guid: c5229962e7a893d4fbcd81a887a85e86, type: 3}
+  - {fileID: 6120663217689574447, guid: 819066c17c5732e41b2865028c9d4fe2, type: 3}
+  - {fileID: 8584322893621826019, guid: d2e30cfca00c00546b127b62751007bb, type: 3}
+  - {fileID: 4538281808736883508, guid: 0f7a741f581fccb4aae152fc0af10ab0, type: 3}
+  - {fileID: 345872763932779583, guid: debd4c654833aea4ca02dd1f66295e14, type: 3}
+  - {fileID: 5955142525355289592, guid: 8f6a3dca449c96346b83bff0c64395a6, type: 3}
+  - {fileID: 496797037804720474, guid: 85736b569ea3aad4791378d166cc6ad1, type: 3}
+  - {fileID: 640029916387394767, guid: c7fb1799141f8c74790453e05e30c71d, type: 3}
+  - {fileID: 3442591529033068205, guid: c4b4def2328339b4397d03564b810995, type: 3}
+  - {fileID: 3803493936016127670, guid: 3f71ec18075445a48884327b1d7a460c, type: 3}
+  weaponAugmentorCollection:
+  - {fileID: 2784572956019587259, guid: efb6e4e6a00756d40b7a558cef3c0855, type: 3}
+  - {fileID: 3846641823831189974, guid: b6fd30eed9a7f4149ba7e6dc9c1f6c35, type: 3}
+  - {fileID: 203140221372870186, guid: d9e4675479718cb4fab1f88bb259be2a, type: 3}
+  - {fileID: 3846641823831189974, guid: dd9ae5caa4d934d4081c312301bb1628, type: 3}
+  - {fileID: 8397888790786720260, guid: ea0880463a5516e4095c8d6672b81617, type: 3}
+  - {fileID: 203140221372870186, guid: 49dba968635323b4b887e7e4cf15a570, type: 3}
+  - {fileID: 203140221372870186, guid: bd99517a0674c7240a0af7d683b48d73, type: 3}
+  - {fileID: 203140221372870186, guid: 4019af9cd70fe2d4d8b306833ab3a2ea, type: 3}
+  - {fileID: 203140221372870186, guid: 357a019a9b4d2704d820b5074417a4b7, type: 3}
+  monsterLibrary:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 0000000001000000020000000300000004000000060000000700000008000000090000000a0000000c0000000b0000000d0000000e0000000f00000010000000
+    _keys: 0000000001000000020000000300000004000000060000000700000008000000090000000a0000000c0000000b0000000d0000000e0000000f00000010000000
+    _values:
+    - {fileID: 3537171100188795311, guid: 3aacb9450e2f1724a8b6dbb59e96d88f, type: 3}
+    - {fileID: 3537171100188795311, guid: f2ead9e4ea77af64daa1241f4e397bf4, type: 3}
+    - {fileID: 3537171100188795311, guid: 73e9086aa30e1ab4caf6f10db7b93919, type: 3}
+    - {fileID: 3537171100188795311, guid: f6c8acff5f932a14f808f2676e7e7a0f, type: 3}
+    - {fileID: 3537171100188795311, guid: d137e911676dd9248844c75ab3b21f7c, type: 3}
+    - {fileID: 3537171100188795311, guid: caf3c09bdb965f74abde83877db78218, type: 3}
+    - {fileID: 3537171100188795311, guid: 8b66503850c3f5549bf74abe07e853b7, type: 3}
+    - {fileID: 3537171100188795311, guid: 85441c88f4f8e9b419256d3b1f76ae8a, type: 3}
+    - {fileID: 3537171100188795311, guid: 62e2dc053629d0a4092c1a6bdacae052, type: 3}
+    - {fileID: 3537171100188795311, guid: 585d643dc214c984daeea45586e484ea, type: 3}
+    - {fileID: 3537171100188795311, guid: 680f594e0ff99614789d3eefc94d1b9d, type: 3}
+    - {fileID: 3537171100188795311, guid: 86bd9033902ff674b99476d413d06ae5, type: 3}
+    - {fileID: 3537171100188795311, guid: 5182bf190ba2f3e45abea630825b3a87, type: 3}
+    - {fileID: 3537171100188795311, guid: d49e47f0811f6eb46b0202bb4901b20c, type: 3}
+    - {fileID: 3537171100188795311, guid: 097e981c90e848b45bf49fa75d7cbad7, type: 3}
+    - {fileID: 3537171100188795311, guid: 8418db64ec4d2a649b13b724c4b40393, type: 3}
+  bossLibrary:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 000000000100000002000000
+    _keys: 000000000100000002000000
+    _values:
+    - {fileID: 875450491898663210, guid: 1002c6afd0e2eb0438acc3eafbb243c3, type: 3}
+    - {fileID: 1453159550515627250, guid: 45bd7023f39ab64469df82df86d77ee3, type: 3}
+    - {fileID: 5599735904190577314, guid: ab553e9a4925616469ceb6887a3e969c, type: 3}
+  eliteLibrary:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 00000000010000000200000003000000
+    _keys: 00000000010000000200000003000000
+    _values:
+    - {fileID: 3343904823891356491, guid: 76c9fea2f3f7db542b26d33fb6d3d416, type: 3}
+    - {fileID: 3343904823891356491, guid: cc17f083c2fcb0347bde20025f51cd7c, type: 3}
+    - {fileID: 4598427269458550761, guid: 0bc0f8690df391f42ac6020f695c3bb3, type: 3}
+    - {fileID: 3343904823891356491, guid: 2e7fab7516d48874c9c9f7366381d5b5, type: 3}

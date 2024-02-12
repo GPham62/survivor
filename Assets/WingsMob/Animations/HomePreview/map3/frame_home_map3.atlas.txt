@@ -1,0 +1,26 @@
+frame_home_map3.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+Layer 1 copy
+	bounds: 2, 2, 72, 80
+Layer 2 copy
+	bounds: 899, 899, 96, 97
+c20_head
+	bounds: 194, 183, 252, 200
+c20_leg_b_1
+	bounds: 194, 91, 56, 90
+c20_leg_b_2
+	bounds: 899, 819, 50, 78
+c20_leg_f_1
+	bounds: 610, 292, 56, 90
+c20_leg_f_2
+	bounds: 76, 4, 50, 78
+c20_tail
+	bounds: 2, 84, 190, 299
+frame_home_map3
+	bounds: 463, 384, 434, 612
+frame_home_map3-locked_0
+	bounds: 2, 385, 459, 611
+icon_lock
+	bounds: 448, 222, 160, 160

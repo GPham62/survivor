@@ -1,0 +1,46 @@
+frame_home_map2.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+1
+	bounds: 279, 2, 157, 189
+2
+	bounds: 454, 184, 175, 160
+3
+	bounds: 676, 353, 198, 159
+4
+	bounds: 2, 4, 275, 187
+5
+	bounds: 454, 346, 220, 166
+Layer 122
+	bounds: 385, 265, 67, 122
+Layer 123
+	bounds: 306, 199, 64, 112
+	rotate: 90
+Layer 124 copy
+	bounds: 631, 268, 62, 76
+Layer 125 copy
+	bounds: 883, 543, 64, 112
+Layer 125 copy 2
+	bounds: 883, 657, 64, 113
+Layer 126 copy
+	bounds: 961, 877, 51, 64
+Layer 94 copy
+	bounds: 306, 265, 77, 122
+c17_head_1
+	bounds: 2, 193, 302, 194
+c17_head_2
+	bounds: 883, 772, 226, 76
+	rotate: 90
+c17_mush_1
+	bounds: 961, 828, 48, 47
+c17_mush_2
+	bounds: 961, 943, 61, 55
+c17_mush_3
+	bounds: 631, 214, 58, 52
+frame_home_map2
+	bounds: 454, 514, 427, 484
+frame_home_map2-locked_0
+	bounds: 2, 389, 450, 609
+icon_lock
+	bounds: 438, 22, 160, 160

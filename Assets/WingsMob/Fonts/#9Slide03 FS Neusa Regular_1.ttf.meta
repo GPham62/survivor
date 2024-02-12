@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d4f831131ab4e64e81ce184ab9542d4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '#9Slide03 FS Neusa Regular'
+  fontNames:
+  - '#9Slide03 FS Neusa Regular'
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

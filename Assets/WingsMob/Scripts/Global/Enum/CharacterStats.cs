@@ -1,0 +1,29 @@
+﻿namespace WingsMob.Survival.Global
+{
+    public enum CharacterStats
+    {
+        ExperienceReward,
+        HealthBase,
+        HealthAddUp,
+        Speed,
+        AttackBase,
+        AttackAddUp,
+        CritDamage,
+        CritRate,
+        Regen,
+        DamageResist,
+        CollectRange,
+        ExperienceAmp,
+        MoneyAmp,
+        CooldownReduction,
+        WeaponDuration,
+        WeaponAoe,
+        DodgeChance,
+        EXPDropChance,
+        Range,
+        Recharge,
+        MinionNum,
+        DamageBlock,
+        ConsumableHeal
+    }
+}

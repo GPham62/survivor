@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b24f6db9bf9b7f418defce39a582543, type: 3}
+  m_Name: Thunder Snake N
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: d1129d58cfe53014ba2d00883b1c6a0a, type: 3}
+  weaponId: 2
+  weaponName: Thunder Snake
+  hasProjectile: 1
+  projectilePrefab: {fileID: 4454692737379830255, guid: 2db70301a17736e468811c5801ab5e90,
+    type: 3}
+  projectileParticlePrefab: {fileID: 0}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 000000000600000002000000
+    _keys: 000000000600000002000000
+    _values:
+    - levels:
+      - 100
+      - 150
+      - 200
+      - 250
+      - 300
+    - levels:
+      - 300
+      - 400
+      - 500
+      - 600
+      - 800
+    - levels:
+      - 0.5
+      - 0.5
+      - 0.5
+      - 0.5
+      - 0.5
+  normalDescriptions:
+  - 'Generates an electric field that shocks nearby enemies '
+  - Bigger area, More damage
+  - Bigger area, More damage
+  - Bigger area, More damage
+  - Bigger area, More damage

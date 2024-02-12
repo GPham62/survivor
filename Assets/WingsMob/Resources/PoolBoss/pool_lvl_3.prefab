@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2873291347677044876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2873291347676794176}
+  - component: {fileID: 2873291347682580908}
+  m_Layer: 0
+  m_Name: pool_lvl_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2873291347676794176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2873291347677044876}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2873291347682580908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2873291347677044876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ed130c8339127947926bea6a9dd2ef8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  createOnEnable: 1
+  removeOnDisable: 1
+  poolItems:
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: d3b3f924914e11444a36075dc966853e,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: ed41e037524cd524caf78a75bf5d03d4,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 985cc6e7e0241354295113fe6399bc91,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 94f46f2d4ab16b24cb08ae9649830cb6,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 62dd47d068420184496bdda6c02a416b,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 982c2b2bc6705d44a8a89e7c6969c80d,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: d0cd1421e4bc3174dbdc4f07965c839a,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 8cd8d159c11ce604ab5d011c2e58786a,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: a71bda5074f27fe40ba24854d29b5186,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 6b8941fbeb9323f43b1201588d3a79c8,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 2657bd7c31047f14ca408f2498d96b93,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 7f6dbe721837b0449aa6596d4b3638b9,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: deba6f4860c2cb6418fe26654f64575c,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: eb6417bc0c0f50d469fab728cd0a9400,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 531a29b498c98f748b94c80eb56f3ea2,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 1617240035321133548, guid: 5bf6ae18c9d5869419c0479e95d52e4f,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 0
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 100
+    allowRecycle: 0
+    categoryName: Foilages
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 8b66503850c3f5549bf74abe07e853b7,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 097e981c90e848b45bf49fa75d7cbad7,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 5182bf190ba2f3e45abea630825b3a87,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: d49e47f0811f6eb46b0202bb4901b20c,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 8418db64ec4d2a649b13b724c4b40393,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 680f594e0ff99614789d3eefc94d1b9d,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 86bd9033902ff674b99476d413d06ae5,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 3537171100188795311, guid: 0d22f1001a2293c479ead8352f3ddc24,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 30
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 200
+    allowRecycle: 0
+    categoryName: Enemies
+    isTemporary: 0
+  _categories:
+  - CatName: Enemies
+    IsExpanded: 0
+    IsEditing: 0
+    ProspectiveName: Enemies
+    IsTemporary: 0
+  - CatName: Foilages
+    IsExpanded: 1
+    IsEditing: 0
+    ProspectiveName: Foilages
+    IsTemporary: 0
+  framesForInit: 1
+  newCategoryName: 
+  addToCategoryName: Enemies
+  newItemPrefabSource: 0

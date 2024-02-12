@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 275e74624e1a9034193d47e74d80f3d4, type: 3}
+  m_Name: Rock Throw U
+  m_EditorClassIdentifier: 
+  weaponIcon: {fileID: 21300000, guid: 60d3f65165696ec46979cc078f670840, type: 3}
+  weaponId: 0
+  weaponName: Infernal Blade
+  hasProjectile: 1
+  projectilePrefab: {fileID: 8142166353261144660, guid: 3400eb313fc281f4582292f5e6156ad8,
+    type: 3}
+  projectileParticlePrefab: {fileID: 8423413764477948222, guid: 4b03671f41f150f4882a7c34c4fa35c4,
+    type: 3}
+  weaponParamDict:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 000000000300000002000000
+    _keys: 000000000300000002000000
+    _values:
+    - levels:
+      - 300
+    - levels:
+      - 1200
+    - levels:
+      - 0.2
+  description: Broken but deadly.

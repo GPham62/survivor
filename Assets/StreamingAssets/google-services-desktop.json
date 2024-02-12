@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899412523023",
+    "firebase_url": "https://g24-survivor-io-default-rtdb.firebaseio.com",
+    "project_id": "g24-survivor-io",
+    "storage_bucket": "g24-survivor-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899412523023:android:d93992e02044b650464b7a",
+        "android_client_info": {
+          "package_name": "com.wm.games.hero.survivor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899412523023-a8f77ldb9idv5ampfdpun6mv1499ku63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJceFWmmo1qhmXR5PTZAnjrB-XyEVBKB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899412523023-a8f77ldb9idv5ampfdpun6mv1499ku63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
